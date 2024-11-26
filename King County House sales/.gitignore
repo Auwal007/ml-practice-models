@@ -1,0 +1,9 @@
+# Prerequisites
+*.csv
+
+.ipynb_checkpoints
+
+.ipynb_checkpoints
+
+kc_house_data.csv
+kc_house_data.CSV
