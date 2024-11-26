@@ -1,0 +1,2 @@
+.ipynb_checkpoints
+kc_house_data
